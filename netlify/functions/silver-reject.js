@@ -9,6 +9,10 @@ export const handler = async () => {
 
   return {
     statusCode: 500,
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Credentials': true
+    },
     body: JSON.stringify(data),
   };
 };
