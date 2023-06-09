@@ -1,0 +1,21 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmazin/netlify-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmazin/netlify-serverless/issues"
+  },
+  "homepage": "https://github.com/jmazin/netlify-serverless#readme"
+}
